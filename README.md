@@ -11,7 +11,7 @@ Follow these steps:
 1. Create your own copy of this repo:
    - Follow this link: [Create repo from template](https://github.com/new?template_name=project_expense_tracker_python_init&template_owner=codelingdotdev)
    - Or click _Use this template_ > _Create new repository_ button on this screen
-2. Give the repository a name (eg: blackjack_game)
+2. Give the repository a name (eg: expense_tracker)
 3. Click the _Create Repository_ button
    - This will create a copy of this repo in your account
 4. Clone your repo onto your local computer
